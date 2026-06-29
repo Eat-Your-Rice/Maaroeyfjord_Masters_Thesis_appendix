@@ -3,6 +3,6 @@
 
 This repository contains supplementary appendix files for the master's thesis:
 
-Refurbishment and Expansion of Mårøyfjord Hydropower Plant
+Economic analysis of increased installed capacity for a small, aging hydropowerplant (<10 MW)
 
 Contents include calculation spreadsheets, simulation input/output files, figures and scripts used in the thesis, all with their own zip file.
